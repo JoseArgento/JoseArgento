@@ -46,7 +46,7 @@ Estudiante de sistemas en **UTN**/**IES** con foco en ciberseguridad ofensiva y 
 
 | Proyecto | Descripción | Stack |
 |----------|-------------|-------|
-| [🔐 pentest-lab](https://github.com/tu-usuario/pentest-lab) | Lab personal de ethical hacking sobre DVWA/AWS con informe profesional | Kali · AWS · DVWA |
+| [🔐 pentest-lab](https://github.com/JoseArgento/pentest-lab) | Lab personal de ethical hacking sobre DVWA/AWS con informe profesional | Kali · AWS · DVWA |
 
 ---
 
