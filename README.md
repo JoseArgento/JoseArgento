@@ -2,7 +2,7 @@
 
 > *Cybersecurity student breaking things ethically — so others don't have to deal with them maliciously.*
 
-Estudiante de sistemas en **UTN · IES Siglo 21* con foco en ciberseguridad ofensiva y defensiva. Me apasiona entender cómo funcionan los ataques para poder construir mejores defensas.
+Estudiante de sistemas en **UTN · IES Siglo 21** con foco en ciberseguridad ofensiva y defensiva. Me apasiona entender cómo funcionan los ataques para poder construir mejores defensas.
 
 ---
 
