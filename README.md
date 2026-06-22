@@ -8,7 +8,7 @@ Estudiante de sistemas en **UTN · IES Siglo 21** con foco en ciberseguridad ofe
 
 ## 🔐 En qué estoy trabajando / What I'm working on
 
-- 🧪 Laboratorio personal de ethical hacking (DVWA en AWS EC2)
+- 🧪 Laboratorio personal de ethical hacking (DVWA en AWS EC2, Blue Team con WoW Classic en AWS EC2)
 - 📚 Preparando **CompTIA Security+ SY0-701**
 - 🏴 TryHackMe — Jr Penetration Tester path
 - 🔬 Explorando: Wireshark · HackTheBox · Metasploit
@@ -47,6 +47,7 @@ Estudiante de sistemas en **UTN · IES Siglo 21** con foco en ciberseguridad ofe
 | Proyecto | Descripción | Stack |
 |----------|-------------|-------|
 | [🔐 pentest-lab](https://github.com/JoseArgento/pentest-lab) | Lab personal de ethical hacking sobre DVWA/AWS con informe profesional | Kali · AWS · DVWA |
+| [🔐 wow-secure-lab](https://github.com/JoseArgento/wow-classic-secure-lab) | Segundo lab personal enfocado en la defensa con informe y guías de configuración | AWS · SIEM · Hardening |
 
 ---
 
